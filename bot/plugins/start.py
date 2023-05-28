@@ -23,11 +23,11 @@ async def _start(c: UtubeBot, m: Message):
                       InlineKeyboardButton("How To Use Me🙄", callback_data="/help")
                   ],
                   [
-                      InlineKeyboardButton("Project Channel!", url=""),
-                      InlineKeyboardButton("", url="")
+                      InlineKeyboardButton("Project Channel!", url="www.youtube.com"),
+                      InlineKeyboardButton("hello", url="www.youtube.com")
                   ],
                   [  
-                      InlineKeyboardButton("", url="")
+                      InlineKeyboardButton("hello", url="www.youtube.com")
                   ]]
         ),
 
